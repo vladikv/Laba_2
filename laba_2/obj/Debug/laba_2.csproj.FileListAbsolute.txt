@@ -1,0 +1,10 @@
+B:\kpi\ООП\semeseter_2\laba_2\laba_2\bin\Debug\laba_2.exe.config
+B:\kpi\ООП\semeseter_2\laba_2\laba_2\bin\Debug\laba_2.exe
+B:\kpi\ООП\semeseter_2\laba_2\laba_2\bin\Debug\laba_2.pdb
+B:\kpi\ООП\semeseter_2\laba_2\laba_2\bin\Debug\Newtonsoft.Json.dll
+B:\kpi\ООП\semeseter_2\laba_2\laba_2\bin\Debug\Newtonsoft.Json.xml
+B:\kpi\ООП\semeseter_2\laba_2\laba_2\obj\Debug\laba_2.csproj.AssemblyReference.cache
+B:\kpi\ООП\semeseter_2\laba_2\laba_2\obj\Debug\laba_2.csproj.CoreCompileInputs.cache
+B:\kpi\ООП\semeseter_2\laba_2\laba_2\obj\Debug\laba_2.csproj.Up2Date
+B:\kpi\ООП\semeseter_2\laba_2\laba_2\obj\Debug\laba_2.exe
+B:\kpi\ООП\semeseter_2\laba_2\laba_2\obj\Debug\laba_2.pdb
