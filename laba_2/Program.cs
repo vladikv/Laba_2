@@ -60,17 +60,17 @@ public class Time
     public void AddMinutes(int minutes)
     {
         int totalMinutes = minute + minutes;
-        int additionalHours = totalMinutes / 60;
+        int addHours = totalMinutes / 60;
         minute = totalMinutes % 60;
-        AddHours(additionalHours);
+        AddHours(addHours);
     }
 
     public void AddSeconds(int seconds)
     {
         int totalSeconds = second + seconds;
-        int additionalMinutes = totalSeconds / 60;
+        int addMinutes = totalSeconds / 60;
         second = totalSeconds % 60;
-        AddMinutes(additionalMinutes);
+        AddMinutes(addMinutes);
     }
 
     public void SaveToJson(string filePath)
